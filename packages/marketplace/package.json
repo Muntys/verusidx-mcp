@@ -1,6 +1,6 @@
 {
   "name": "@verusidx/marketplace-mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "MCP server for Verus on-chain marketplace — create, browse, accept, and close offers",
   "license": "MIT",
   "type": "module",
