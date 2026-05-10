@@ -1,0 +1,33 @@
+name: 🏛️ Agent of Change (Visionary Onboarding)
+description: Apply to become a dedicated contributor to the Sovereignty Layer.
+labels: ["onboarding", "steward-track"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### Joining the Vanguard
+        Verus requires more than just code; it requires architectural vision. Tell us how you intend to help build the Sovereignty Layer.
+  - type: dropdown
+    id: expertise
+    attributes:
+      label: Domain of Expertise
+      options:
+        - Decentralized Governance
+        - Zero-Knowledge Ethics
+        - Game Theory & Incentives
+        - Digital Jurisprudence
+        - Systems Architecture
+    validations:
+      required: true
+  - type: textarea
+    id: manifest
+    attributes:
+      label: Your Personal Manifest
+      description: What specific problem in modern digital sovereignty are you most driven to solve?
+    validations:
+      required: true
+  - type: input
+    id: contact
+    attributes:
+      label: Secure Contact
+      description: Provide a Discord handle, PGP-signed email, or other secure way to connect.
