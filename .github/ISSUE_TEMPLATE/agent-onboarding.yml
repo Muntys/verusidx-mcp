@@ -1,5 +1,6 @@
 name: 🏛️ Agent of Change (Visionary Onboarding)
 description: Apply to become a dedicated contributor to the Sovereignty Layer.
+title: "[AGENT]: "
 labels: ["onboarding", "steward-track"]
 body:
   - type: markdown
@@ -31,3 +32,10 @@ body:
     attributes:
       label: Secure Contact
       description: Provide a Discord handle, PGP-signed email, or other secure way to connect.
+  - type: checkboxes
+    id: agreement
+    attributes:
+      label: Final Confirmation
+      options:
+        - label: I understand that my contributions will be governed by the Verus Open-Source Protocols.
+          required: true
