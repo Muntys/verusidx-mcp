@@ -9,11 +9,10 @@
     "verusidx-mcp": "./build/index.js"
   },
   "packageManager": "yarn@1.22.22",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com"
-  },
   "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ],
   "scripts": {
     "build": "yarn workspaces run build",
     "start": "node build/index.js",
