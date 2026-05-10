@@ -8,37 +8,21 @@
   "bin": {
     "verusidx-mcp": "./build/index.js"
   },
+  "packageManager": "yarn@1.22.22",
   "repository": {
     "type": "git",
     "url": "https://github.com"
   },
-  "homepage": "https://github.com#readme",
-  "bugs": "https://github.com/issues",
   "license": "MIT",
-  "keywords": [
-    "verus",
-    "mcp",
-    "model-context-protocol",
-    "blockchain",
-    "ai-agents",
-    "cryptocurrency",
-    "identity",
-    "defi",
-    "open-source"
-  ],
-  "engines": {
-    "node": ">=18.0.0"
-  },
   "scripts": {
-    "build": "pnpm -r build",
-    "test": "pnpm -r test",
-    "lint": "pnpm -r lint",
-    "start": "node build/index.js"
+    "build": "yarn workspaces run build",
+    "start": "node build/index.js",
+    "test": "yarn workspaces run test"
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.0.1"
   },
-  "pnpm": {
-    "onlyBuiltDependencies": []
+  "engines": {
+    "node": ">=18.0.0"
   }
 }
