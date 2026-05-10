@@ -1,5 +1,6 @@
 name: 🛡️ Sovereign Proposal
 description: Propose a high-level strategic shift or ethical framework for the Sovereignty Layer.
+title: "[STRATEGY]: "
 labels: ["visionary", "sovereignty-layer", "strategy"]
 body:
   - type: markdown
@@ -36,3 +37,10 @@ body:
         - label: Permissionless Innovation
         - label: Cryptographic Verifiability
         - label: Anti-Fragile Governance
+  - type: checkboxes
+    id: oath
+    attributes:
+      label: The Steward's Oath
+      options:
+        - label: I have reviewed the # 🏛️ VERUS: THE WAY - MASTER STRATEGY ARCHIVE.
+          required: true
