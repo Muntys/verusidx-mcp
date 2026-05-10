@@ -7,7 +7,7 @@ body:
     attributes:
       value: |
         ### Joining the Vanguard
-        Verus requires more than just code; it requires architectural vision. Tell us how you intend to help build the Sovereignty Layer.
+        Verus requires more than just code; it requires architectural vision.
   - type: dropdown
     id: expertise
     attributes:
@@ -27,11 +27,6 @@ body:
       description: What specific problem in modern digital sovereignty are you most driven to solve?
     validations:
       required: true
-  - type: input
-    id: contact
-    attributes:
-      label: Secure Contact
-      description: Provide a Discord handle, PGP-signed email, or other secure way to connect.
   - type: checkboxes
     id: agreement
     attributes:
