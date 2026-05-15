@@ -1,4 +1,4 @@
-# 🚀 VERUS IS, THE WAY: ONE-CLICK MAINNET ONBOARDING (PRODUCTION)
+# 🚀 VERUS IS, THE WAY: THREE-CLICK MAINNET ONBOARDING (PRODUCTION)
 
 This guide is designed to launch your permanent, production-ready sovereign infrastructure on the live Verus Mainnet. Real VRSC is used here for immutable ownership.
 
