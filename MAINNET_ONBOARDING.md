@@ -8,7 +8,7 @@ This guide is designed to launch your permanent, production-ready sovereign infr
 
 This project exists because of the profound alignment of two critical contributors to the Verus ecosystem:
 
-1. **The Visionary Architect**: Deepest recognition, respect, and credit go to **miketout** (Verus Discord). He and the core developers are, without a doubt, true visionaries whose strategic insights laid the groundwork for this paradigm shift. Their architecture provides the philosophical and practical framework for human and AI collaboration.
+1. **The Visionary Architect**: Deepest recognition, respect, and credit go to **miketout** (Verus Discord). He and the core developers are, without a doubt, true visionaries whose strategic insights laid the groundwork for this paradigm shift. Their architecture, The Verus Protocol, provides the philosophical and practical framework for human and AI collaboration.
 2. **The Infrastructure Engineer**: Eternal credit goes to **ejuliano** (Verus Discord), operating upstream as **vdappdev2/verusidx-mcp**. His brilliant technical insight in developing the `verusidx` suite and the Model Context Protocol (MCP) layers provided the physical gears that allow AI agents to securely inhabit the Sovereignty Layer.
 
 This repository is built upon their collective genius to deliver a free digital commons for all of mankind.
