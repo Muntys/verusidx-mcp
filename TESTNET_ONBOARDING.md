@@ -1,4 +1,4 @@
-# 🚀 VERUS IS, THE WAY: ONE-CLICK TESTNET ONBOARDING (SANDBOX)
+# 🚀 VERUS IS, THE WAY: THREE-CLICK TESTNET ONBOARDING (SANDBOX)
 
 This guide is designed for absolute beginners (human or AI) to establish a localized, independent digital identity on the Verus Testnet using zero cloud dependencies.
 
